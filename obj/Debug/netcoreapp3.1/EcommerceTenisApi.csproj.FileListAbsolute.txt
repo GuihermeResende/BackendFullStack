@@ -1,0 +1,186 @@
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.csproj.AssemblyReference.cache
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.AssemblyInfoInputs.cache
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.AssemblyInfo.cs
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.csproj.CoreCompileInputs.cache
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\EcommerceTenisApi.exe
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\EcommerceTenisApi.deps.json
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\EcommerceTenisApi.runtimeconfig.json
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\EcommerceTenisApi.runtimeconfig.dev.json
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\EcommerceTenisApi.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\EcommerceTenisApi.pdb
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\staticwebassets\EcommerceTenisApi.StaticWebAssets.Manifest.cache
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\staticwebassets\EcommerceTenisApi.StaticWebAssets.xml
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\EcommerceTenisApi.styles.css
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.RazorTargetAssemblyInfo.cache
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.csproj.CopyComplete
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.dll
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.pdb
+C:\Users\Star\source\repos\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.genruntimeconfig.cache
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\EcommerceTenisApi.exe
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\EcommerceTenisApi.deps.json
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\EcommerceTenisApi.runtimeconfig.json
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\EcommerceTenisApi.runtimeconfig.dev.json
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\EcommerceTenisApi.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\EcommerceTenisApi.pdb
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.csproj.AssemblyReference.cache
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.AssemblyInfoInputs.cache
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.AssemblyInfo.cs
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.csproj.CoreCompileInputs.cache
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\staticwebassets\EcommerceTenisApi.StaticWebAssets.Manifest.cache
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\staticwebassets\EcommerceTenisApi.StaticWebAssets.xml
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\EcommerceTenisApi.styles.css
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.RazorTargetAssemblyInfo.cache
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.csproj.CopyComplete
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.dll
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.pdb
+D:\Unasp\2021\2º Semestre\DESFS - Desenvolvimento Full-Stack\EcommerceTenisApi\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.genruntimeconfig.cache
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\EcommerceTenisApi.exe
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\EcommerceTenisApi.deps.json
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\EcommerceTenisApi.runtimeconfig.json
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\EcommerceTenisApi.runtimeconfig.dev.json
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\EcommerceTenisApi.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\EcommerceTenisApi.pdb
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.csproj.AssemblyReference.cache
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.AssemblyInfoInputs.cache
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.AssemblyInfo.cs
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.csproj.CoreCompileInputs.cache
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\staticwebassets\EcommerceTenisApi.StaticWebAssets.Manifest.cache
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\staticwebassets\EcommerceTenisApi.StaticWebAssets.xml
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\EcommerceTenisApi.styles.css
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.RazorTargetAssemblyInfo.cache
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.csproj.CopyComplete
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.dll
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.pdb
+C:\Users\Star\Documents\Aula Full-Stack\EcommerceTenisApi\EcommerceTenisApi\obj\Debug\netcoreapp3.1\EcommerceTenisApi.genruntimeconfig.cache
